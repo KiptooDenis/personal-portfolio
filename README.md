@@ -1,13 +1,14 @@
 # Personal Portfolio Website
 
-A responsive personal portfolio website built to showcase my software development projects,
-technical skills, and professional contact information.
+A professional personal portfolio website showcasing my projects, skills, and background as a Full-Stack Developer.
+This portfolio is designed to present real-world projects, demonstrate technical skills, and provide an easy way for recruiters and collaborators to learn more about me.
 
 ## Features
 - Clean and responsive layout
 - Projects section with GitHub links
 - Skills overview
 - Contact information with LinkedIn and email
+- Fast and lightweight (pure HTML & CSS)
 
 ## Technologies Used
 - HTML
